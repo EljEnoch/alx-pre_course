@@ -1,1 +1,1 @@
-My first readme from main branch updtaed
+My first readme from main branch updated
